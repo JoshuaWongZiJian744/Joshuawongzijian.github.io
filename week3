@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>exe1.html</title>
+    <style>
+        button.Request {
+            background-color: black;
+            color: white;
+            border: 1px solid #1d8ad6;
+            border-radius: 0px;
+            padding: 10px;
+            padding-left: 20px;
+            padding-right: 20px;
+
+        }
+
+        button.Sign {
+            background-color: #54a557;
+            color: white;
+            border: 2px solid #54a557;
+            border-radius: 4px;
+            padding: 5px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        button.Add {
+            background-color: #f8d94e;
+            color: black;
+            border: 1px solid #f8d94e;
+            border-radius: 15px;
+            padding: 5px;
+            padding-left: 45px;
+            padding-right: 45px;
+        }
+
+        button.Get {
+            background-color: #7353ad;
+            color: white;
+            border: 6px solid #7353ad;
+            border-radius: 3px;
+            padding: 5px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        button.Download {
+            background-color: white;
+            color: #71757a;
+            border: 1px solid #71757a;
+            border-radius: 3px;
+            padding: 7px;
+            padding-left: 18px;
+            padding-right: 18px
+        }
+
+        button.Apply {
+            background-color: #2d65bc;
+            color: white;
+            border: 1px solid #2d65bc;
+            border-radius: 18px;
+            padding: 6px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        button.Save {
+            background-color: white;
+            color: #2e66be;
+            border: 1px solid #2e66be;
+            border-radius: 20px;
+            padding: 5px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    </style>
+
+</head>
+
+</html>
+
+<body>
+    <button class="Request">Request now</button>
+    <button class="Sign">Sign up</button>
+    <button class="Add">Add to Cart</button>
+    <br><br>
+    <button class="Get">Get started</button>
+    <button class="Download"> Download</button>
+    <button class="Apply"> Apply on company website</button>
+    <button class="Save"> Save</button>
+</body>
